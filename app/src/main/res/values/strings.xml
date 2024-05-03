@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
-    <string name="Save" />
+    <string name="Save">Save</string>
 </resources>
